@@ -2,6 +2,7 @@
 	"author": "M C",
 	"description": "Place to do more...",
 	"keywords": [ "freecodecamp", "formation", "courses", "challenges" ],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
